@@ -7,3 +7,5 @@ def fun2():
     return
 
 
+def fun3():
+    return
