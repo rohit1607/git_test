@@ -9,3 +9,6 @@ def fun2():
 
 def fun3():
     return
+
+def fun4():
+    return
